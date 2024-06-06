@@ -9,4 +9,4 @@ You may want to:
 3. [Follow me](https://twitter.com/intent/follow?screen_name=abelmbula) on Twitter
 4. Level up your skills with a [professional mentor](https://www.notion.so/Level-up-your-skills-with-a-professional-mentor-at-your-fingertips-859f2380c8cf4e149ef719a441c09dff) at your fingertips
 
-I'm currently working at [Kinshasa digital academy](https://www.kinshasadigital.academy/) a bootcamp whose mission is to train the next generation of world developers within Africa.
+I'm currently working at [Kinshasa digital academy](https://www.kinshasadigital.academy/) a bootcamp whose mission is to train the next generation of world developers within Africa. I also mentor the next generation of open source developers in Africa with  [Kali Academy](https://kaliacademy.org/)
